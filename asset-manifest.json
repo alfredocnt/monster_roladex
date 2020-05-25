@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alfredocnt/monster_roladex/static/css/main.b1169781.chunk.css",
+    "main.js": "/alfredocnt/monster_roladex/static/js/main.506687eb.chunk.js",
+    "main.js.map": "/alfredocnt/monster_roladex/static/js/main.506687eb.chunk.js.map",
+    "runtime-main.js": "/alfredocnt/monster_roladex/static/js/runtime-main.9f77e48b.js",
+    "runtime-main.js.map": "/alfredocnt/monster_roladex/static/js/runtime-main.9f77e48b.js.map",
+    "static/js/2.9d52131b.chunk.js": "/alfredocnt/monster_roladex/static/js/2.9d52131b.chunk.js",
+    "static/js/2.9d52131b.chunk.js.map": "/alfredocnt/monster_roladex/static/js/2.9d52131b.chunk.js.map",
+    "index.html": "/alfredocnt/monster_roladex/index.html",
+    "precache-manifest.bcb02ba986dc2a2717f5b2d2a2f8fa1e.js": "/alfredocnt/monster_roladex/precache-manifest.bcb02ba986dc2a2717f5b2d2a2f8fa1e.js",
+    "service-worker.js": "/alfredocnt/monster_roladex/service-worker.js",
+    "static/css/main.b1169781.chunk.css.map": "/alfredocnt/monster_roladex/static/css/main.b1169781.chunk.css.map",
+    "static/js/2.9d52131b.chunk.js.LICENSE.txt": "/alfredocnt/monster_roladex/static/js/2.9d52131b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f77e48b.js",
+    "static/js/2.9d52131b.chunk.js",
+    "static/css/main.b1169781.chunk.css",
+    "static/js/main.506687eb.chunk.js"
+  ]
+}
